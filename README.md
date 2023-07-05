@@ -1,5 +1,6 @@
 # AtliQ-Grands-Revenue-Analysis
 Codebasics Resume challenge link - https://codebasics.io/challenge/codebasics-resume-project-challenge
+Tools used - Microsoft Excel,  Microsoft Power BI
 
 # Provide Insights to the Revenue Team in Hospitality Domain
 Domain:  Hospitality            
