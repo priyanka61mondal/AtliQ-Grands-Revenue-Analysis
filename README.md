@@ -1,5 +1,5 @@
 # AtliQ-Grands-Revenue-Analysis
-Codebasics Resume challenge - AtliQ Grands Revenue Analysis
+Codebasics Resume challenge link - https://codebasics.io/challenge/codebasics-resume-project-challenge
 
 # Provide Insights to the Revenue Team in Hospitality Domain
 Domain:  Hospitality            
